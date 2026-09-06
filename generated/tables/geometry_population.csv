@@ -1,0 +1,9 @@
+GeometryFamily,Scale,Regularity,N
+2S2B,full,regular,72
+3S2B,full,regular,72
+3S3B,full,regular,72
+4S3B,full,regular,72
+L2S2B,lab,regular,72
+L2S2B-stilt,lab,stilted,48
+L3S2B,lab,regular,72
+L3S2B-stilt,lab,stilted,48

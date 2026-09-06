@@ -1,0 +1,91 @@
+Target,SameScalarNode,Method,Repeat,Fold,Accuracy,MacroF1,MeanConfidence
+DamageState,RoofDriftClass,Inference-only withholding,1,1,0.6698113207547169,0.5877403846153846,0.8412219561133419
+DamageState,RoofDriftClass,Strict node removal and refit,1,1,0.6698113207547169,0.5877403846153846,0.8412219561133419
+DamageState,RoofDriftClass,Inference-only withholding,1,2,0.6698113207547169,0.5500162811705637,0.8370632174061734
+DamageState,RoofDriftClass,Strict node removal and refit,1,2,0.6698113207547169,0.5500162811705637,0.8370632174061734
+DamageState,RoofDriftClass,Inference-only withholding,1,3,0.7264150943396226,0.624876006535185,0.8521274691360184
+DamageState,RoofDriftClass,Strict node removal and refit,1,3,0.7264150943396226,0.624876006535185,0.8521274691360184
+DamageState,RoofDriftClass,Inference-only withholding,1,4,0.7238095238095238,0.6480801439467668,0.8209673148129287
+DamageState,RoofDriftClass,Strict node removal and refit,1,4,0.7238095238095238,0.6480801439467668,0.8209673148129285
+DamageState,RoofDriftClass,Inference-only withholding,1,5,0.7428571428571429,0.6729076479076479,0.859530577268034
+DamageState,RoofDriftClass,Strict node removal and refit,1,5,0.7428571428571429,0.6729076479076479,0.8595305772680338
+DamageState,RoofDriftClass,Inference-only withholding,2,1,0.7641509433962265,0.717499913263713,0.851249426601999
+DamageState,RoofDriftClass,Strict node removal and refit,2,1,0.7641509433962265,0.717499913263713,0.851249426601999
+DamageState,RoofDriftClass,Inference-only withholding,2,2,0.6698113207547169,0.6095823778750608,0.8304681839383843
+DamageState,RoofDriftClass,Strict node removal and refit,2,2,0.6698113207547169,0.6095823778750608,0.8304681839383843
+DamageState,RoofDriftClass,Inference-only withholding,2,3,0.6886792452830188,0.5834857413804783,0.8477818528170339
+DamageState,RoofDriftClass,Strict node removal and refit,2,3,0.6886792452830188,0.5834857413804783,0.8477818528170339
+DamageState,RoofDriftClass,Inference-only withholding,2,4,0.638095238095238,0.5318147716428655,0.8145918892684747
+DamageState,RoofDriftClass,Strict node removal and refit,2,4,0.638095238095238,0.5318147716428655,0.8145918892684747
+DamageState,RoofDriftClass,Inference-only withholding,2,5,0.8095238095238095,0.7338874650512581,0.8181028469671875
+DamageState,RoofDriftClass,Strict node removal and refit,2,5,0.8095238095238095,0.7338874650512581,0.8181028469671875
+DamageState,RoofDriftClass,Inference-only withholding,3,1,0.7452830188679245,0.6750469237681513,0.8496286920706865
+DamageState,RoofDriftClass,Strict node removal and refit,3,1,0.7452830188679245,0.6750469237681513,0.8496286920706865
+DamageState,RoofDriftClass,Inference-only withholding,3,2,0.7452830188679245,0.663636607203749,0.8224327780703945
+DamageState,RoofDriftClass,Strict node removal and refit,3,2,0.7452830188679245,0.663636607203749,0.8224327780703945
+DamageState,RoofDriftClass,Inference-only withholding,3,3,0.7452830188679245,0.6339012925969447,0.8611868027572077
+DamageState,RoofDriftClass,Strict node removal and refit,3,3,0.7452830188679245,0.6339012925969447,0.8611868027572077
+DamageState,RoofDriftClass,Inference-only withholding,3,4,0.7142857142857143,0.6184754117043707,0.8017758907736974
+DamageState,RoofDriftClass,Strict node removal and refit,3,4,0.7142857142857143,0.6184754117043707,0.8017758907736974
+DamageState,RoofDriftClass,Inference-only withholding,3,5,0.6095238095238096,0.5433426893792748,0.8096234065351244
+DamageState,RoofDriftClass,Strict node removal and refit,3,5,0.6095238095238096,0.5433426893792748,0.8096234065351242
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,1,1,0.7641509433962265,0.7098972752335245,0.9024650897301847
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,1,1,0.7641509433962265,0.7098972752335245,0.9024650897301847
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,1,2,0.7264150943396226,0.7059344401873138,0.9008863933426501
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,1,2,0.7264150943396226,0.7059344401873138,0.9008863933426501
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,1,3,0.8113207547169812,0.7262646126952911,0.8563571561908291
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,1,3,0.8113207547169812,0.7262646126952911,0.8563571561908291
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,1,4,0.7904761904761904,0.7778020525684077,0.8704274178616853
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,1,4,0.7904761904761904,0.7778020525684077,0.8704274178616853
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,1,5,0.8380952380952381,0.7926545064066287,0.8902544952026425
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,1,5,0.8380952380952381,0.7926545064066287,0.8902544952026425
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,2,1,0.8018867924528302,0.7460439748575342,0.8907680226522569
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,2,1,0.8018867924528302,0.7460439748575342,0.8907680226522569
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,2,2,0.7924528301886793,0.7432950191570882,0.8762723471696047
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,2,2,0.7924528301886793,0.7432950191570882,0.8762723471696047
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,2,3,0.7547169811320755,0.7046388786122416,0.8751294271582004
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,2,3,0.7547169811320755,0.7046388786122416,0.8751294271582004
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,2,4,0.8095238095238095,0.7362162162162162,0.8942219643617945
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,2,4,0.8095238095238095,0.7362162162162162,0.8942219643617945
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,2,5,0.8095238095238095,0.7801672640382318,0.8813050673193953
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,2,5,0.8095238095238095,0.7801672640382318,0.8813050673193953
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,3,1,0.8113207547169812,0.7585978835978836,0.8698115045885695
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,3,1,0.8113207547169812,0.7585978835978836,0.8698115045885695
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,3,2,0.7547169811320755,0.6923976608187133,0.8830878398242555
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,3,2,0.7547169811320755,0.6923976608187133,0.8830878398242554
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,3,3,0.7830188679245284,0.7186036611323967,0.8667471470118108
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,3,3,0.7830188679245284,0.7186036611323967,0.8667471470118108
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,3,4,0.7904761904761904,0.7901495726495726,0.9029922217242258
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,3,4,0.7904761904761904,0.7901495726495726,0.9029922217242258
+StiffnessLoss,StiffnessDegradationClass,Inference-only withholding,3,5,0.7714285714285715,0.7374741200828158,0.8913672005723272
+StiffnessLoss,StiffnessDegradationClass,Strict node removal and refit,3,5,0.7714285714285715,0.7374741200828158,0.8913672005723272
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,1,1,0.6886792452830188,0.6804604001096191,0.6737629417667483
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,1,1,0.6886792452830188,0.627356983061681,0.7636741360448445
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,1,2,0.7924528301886793,0.6946045049764275,0.7011088984373092
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,1,2,0.7924528301886793,0.733058608058608,0.7880333597032896
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,1,3,0.6698113207547169,0.5063206919494345,0.6564929674890616
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,1,3,0.6981132075471698,0.6678417547982765,0.7202697953134617
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,1,4,0.6952380952380952,0.5399780941949617,0.7123455461997382
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,1,4,0.7333333333333333,0.6509971509971509,0.780125385447545
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,1,5,0.7714285714285715,0.7576923076923077,0.6790270249950515
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,1,5,0.7714285714285715,0.7303082191780822,0.7752541955265607
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,2,1,0.6698113207547169,0.6630642085187539,0.6808782253885882
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,2,1,0.7547169811320755,0.7301214257735997,0.756188613325319
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,2,2,0.7547169811320755,0.6140056022408964,0.7315922973410608
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,2,2,0.7830188679245284,0.7176606832657788,0.8133201241757912
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,2,3,0.6886792452830188,0.5739861161856047,0.665728735494241
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,2,3,0.7547169811320755,0.7185457516339869,0.7300205874964519
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,2,4,0.7523809523809524,0.6130952380952381,0.7248110748843348
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,2,4,0.8,0.7413489736070381,0.7937539874074949
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,2,5,0.7238095238095238,0.7134117647058824,0.6712576815846865
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,2,5,0.7142857142857143,0.6347402597402598,0.7617765354247165
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,3,1,0.7452830188679245,0.7302798982188294,0.6905143029516273
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,3,1,0.7735849056603774,0.7151813703537842,0.7678253016446513
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,3,2,0.6981132075471698,0.6479867164798672,0.6623520423908871
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,3,2,0.6981132075471698,0.6479867164798672,0.7457360477042827
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,3,3,0.7924528301886793,0.7197115384615385,0.717027348850344
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,3,3,0.8018867924528302,0.770869788986104,0.7908814837669987
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,3,4,0.7333333333333333,0.7222222222222222,0.6919663082382402
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,3,4,0.819047619047619,0.7539770625231225,0.7687528603240072
+ResidualCapacity,PostPeakStrengthRetentionClass,Inference-only withholding,3,5,0.6666666666666666,0.505050505050505,0.6866563083803848
+ResidualCapacity,PostPeakStrengthRetentionClass,Strict node removal and refit,3,5,0.7333333333333333,0.6795989537925022,0.7664724904585878

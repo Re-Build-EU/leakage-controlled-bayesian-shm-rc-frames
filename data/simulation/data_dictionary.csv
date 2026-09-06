@@ -1,0 +1,42 @@
+field,dtype,unit,description
+CaseID,int64,-,Unique simulation case identifier.
+GeometryFamily,object,-,Frame geometry family used for population and leave-one-geometry-out validation.
+n_stories,int64,-,Number of stories.
+n_bays,int64,-,Number of bays.
+Stratum,object,-,Prescribed deformation-demand stratum used in the simulation design.
+MechTarget,object,-,"Prescribed member-proportion family (beam, balanced, column); not a deterministic failure label."
+H_mm,float64,mm,Nominal regular-story column height used in the case definition.
+L_mm,float64,mm,Beam span.
+fc_MPa,float64,MPa,Concrete compressive strength used in Concrete02.
+fy_MPa,float64,MPa,Reinforcement yield strength used in Steel02.
+E_MPa,float64,MPa,Reinforcement elastic modulus.
+b_col_mm,float64,mm,Column section width.
+h_col_mm,float64,mm,Column section depth.
+b_beam_mm,float64,mm,Beam section width.
+h_beam_mm,float64,mm,Beam section depth.
+n_col_bars,float64,-,Longitudinal bar count in column section.
+n_beam_bars,float64,-,Longitudinal bar count in beam section.
+gravity_per_node_kN,float64,kN,Applied gravity load per loaded node.
+target_drift,float64,ratio,Prescribed global roof-drift target for the pushover analysis.
+T1_sec,float64,s,Initial first-mode period.
+f1_Hz,float64,Hz,Initial first-mode frequency.
+max_roof_disp_mm,float64,mm,Maximum available control-node displacement.
+roof_disp_at_80Vmax_mm,float64,mm,Roof displacement at the first response point reaching 0.8 Vmax on the ascending branch.
+max_base_shear_kN,float64,kN,Maximum base shear attained in the available pushover response.
+initial_stiffness,float64,kN/mm,Reference secant stiffness evaluated at the fifth saved converged response point.
+last_stiffness,float64,kN/mm,Terminal secant stiffness at the final available converged response point.
+secant_ratio,float64,ratio,Terminal-to-reference secant stiffness ratio.
+post_peak_strength_ratio,float64,ratio,Terminal base shear divided by peak base shear (Vend/Vmax).
+stiffness_loss_frac,float64,fraction,"Fractional secant stiffness loss, 1 - Kend/K0."
+ductility_proxy,float64,ratio,Displacement-based diagnostic proxy retained for traceability; not a manuscript target.
+max_story_drift_ratio,float64,ratio,Maximum true interstory drift ratio over all columns and converged pushover steps using each column actual vertical height.
+energy_proxy,float64,kN·mm,Area under the available base-shear versus roof-displacement curve.
+max_column_curvature,float64,1/mm,Maximum absolute section curvature across nonlinear column integration sections and converged steps.
+max_beam_curvature,float64,1/mm,Maximum absolute section curvature across nonlinear beam integration sections and converged steps.
+column_to_beam_curvature_ratio,float64,ratio,Maximum column section curvature divided by maximum beam section curvature plus a small numerical epsilon.
+freq_shift_proxy,float64,fraction,Frequency-shift-related response proxy retained for data traceability.
+ConvergedFully,float64,0/1,1 if the analysis reached its prescribed target displacement; 0 if terminal quantities correspond to the last converged state.
+Scale,object,-,Simulation scale group (full or laboratory).
+Regularity,object,-,regular or stilted.
+stilt_ratio,float64,ratio,Relative geometric parameter for stilted lower-story configuration; equals 1 for regular frames.
+global_roof_drift_ratio,float64,ratio,Maximum available roof displacement divided by nominal total frame height.

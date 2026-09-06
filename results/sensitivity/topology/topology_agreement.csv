@@ -1,0 +1,13 @@
+Target,Topology,PredictionAgreement,MeanAbsConfidenceChange
+DamageState,baseline,1.0,0.0
+DamageState,early_deformation_to_stiffness,0.9627525252525253,0.022770123398894948
+DamageState,mediated_residual,1.0,3.364312195833808e-17
+DamageState,no_damage_to_stiffness,0.9116161616161617,0.0488503091883243
+ResidualCapacity,baseline,1.0,0.0
+ResidualCapacity,early_deformation_to_stiffness,1.0,0.005024227768492372
+ResidualCapacity,mediated_residual,0.7253787878787878,0.1205805534056305
+ResidualCapacity,no_damage_to_stiffness,1.0,0.034480491155811664
+StiffnessLoss,baseline,1.0,0.0
+StiffnessLoss,early_deformation_to_stiffness,0.9728535353535354,0.029798982672897104
+StiffnessLoss,mediated_residual,1.0,2.5863150005472395e-17
+StiffnessLoss,no_damage_to_stiffness,0.8964646464646465,0.05038876262058219

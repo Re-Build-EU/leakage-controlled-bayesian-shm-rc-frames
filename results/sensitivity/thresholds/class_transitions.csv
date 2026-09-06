@@ -1,0 +1,22 @@
+target,scenario,baseline_class,alternative_class,count
+Stiffness loss,lower_-0.05,High,High,288
+Stiffness loss,lower_-0.05,Low,Low,39
+Stiffness loss,lower_-0.05,Low,Medium,35
+Stiffness loss,lower_-0.05,Medium,High,35
+Stiffness loss,lower_-0.05,Medium,Medium,131
+Stiffness loss,baseline,High,High,288
+Stiffness loss,baseline,Low,Low,74
+Stiffness loss,baseline,Medium,Medium,166
+Stiffness loss,higher_+0.05,High,High,224
+Stiffness loss,higher_+0.05,High,Medium,64
+Stiffness loss,higher_+0.05,Low,Low,74
+Stiffness loss,higher_+0.05,Medium,Low,47
+Stiffness loss,higher_+0.05,Medium,Medium,119
+Residual capacity,lower_-0.05,Failed,Failed,116
+Residual capacity,lower_-0.05,Failed,Retained,25
+Residual capacity,lower_-0.05,Retained,Retained,387
+Residual capacity,baseline,Failed,Failed,141
+Residual capacity,baseline,Retained,Retained,387
+Residual capacity,higher_+0.05,Failed,Failed,141
+Residual capacity,higher_+0.05,Retained,Failed,30
+Residual capacity,higher_+0.05,Retained,Retained,357

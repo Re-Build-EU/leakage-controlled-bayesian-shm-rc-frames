@@ -1,0 +1,3 @@
+PACKAGE VALIDATION: PASS
+Dataset: (528, 41) | fully converged: 511 | partial: 17
+All key manuscript metrics match the canonical archived outputs.

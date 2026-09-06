@@ -1,0 +1,10 @@
+Target,Class,Count,Fraction
+DamageState,none,51,0.09659090909090909
+DamageState,minor,85,0.16098484848484848
+DamageState,moderate,97,0.18371212121212122
+DamageState,severe,295,0.5587121212121212
+StiffnessLoss,low,74,0.14015151515151514
+StiffnessLoss,medium,166,0.3143939393939394
+StiffnessLoss,high,288,0.5454545454545454
+ResidualCapacity,failed,141,0.26704545454545453
+ResidualCapacity,retained,387,0.7329545454545454

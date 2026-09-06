@@ -1,0 +1,11 @@
+item,count
+simulation cases,528
+simulation variables,41
+fully converged analyses,511
+last-converged analyses,17
+repeated-CV fold rows,450
+OOF Bayesian posterior rows,4752
+LOGO geometry-target rows,24
+strict comparison prediction rows,4752
+topology prediction rows,19008
+experimental specimens,4
