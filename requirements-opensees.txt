@@ -1,0 +1,2 @@
+# Optional: required only for independent FE-model reconstruction
+openseespy>=3.5,<4

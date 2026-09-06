@@ -1,0 +1,14 @@
+name: rebuild-eu-shm-rc
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy>=1.26
+  - pandas>=2.1
+  - matplotlib>=3.8
+  - scipy>=1.11
+  - scikit-learn>=1.4
+  - networkx>=3.2
+  - pip
+  - pip:
+      - pgmpy>=0.1.25

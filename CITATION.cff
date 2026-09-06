@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the associated article and this Re-BUILD-EU repository release."
+title: "Re-BUILD-EU data and code for leakage-controlled Bayesian SHM of earthquake-damaged RC frames"
+version: 1.0.0
+date-released: 2026-09-06
+authors:
+  - family-names: Wahab
+    given-names: Abdul Ghafar
+  - family-names: Clementi
+    given-names: Francesco
+  - family-names: Tao
+    given-names: Zhong
+keywords:
+  - structural health monitoring
+  - reinforced concrete frames
+  - Bayesian network
+  - post-earthquake diagnosis
+  - data leakage
+  - same-scalar leakage
+  - finite element simulation
+  - posterior calibration
+  - Re-BUILD-EU
+preferred-citation:
+  type: article
+  title: "Leakage-controlled Bayesian structural health monitoring of earthquake-damaged RC frames using mechanism-aware evidence and experimental demonstration"
+  authors:
+    - family-names: Wahab
+      given-names: Abdul Ghafar
+    - family-names: Clementi
+      given-names: Francesco
+    - family-names: Tao
+      given-names: Zhong
+  journal: Structural Health Monitoring

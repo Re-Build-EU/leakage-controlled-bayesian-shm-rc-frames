@@ -1,0 +1,4 @@
+-r requirements.txt
+scikit-learn>=1.4,<2
+pgmpy>=0.1.25,<2
+networkx>=3.2,<4
