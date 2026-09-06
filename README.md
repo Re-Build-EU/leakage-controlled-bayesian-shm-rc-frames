@@ -89,7 +89,7 @@ The experimental information used in the simulation-to-experiment demonstration 
 
 ## Citation
 
-Please cite the associated Structural Health Monitoring article and the archived Re-BUILD-EU repository release. `CITATION.cff` is included for GitHub citation support. After creating a Zenodo release, add the final DOI to the repository metadata and manuscript data-availability statement.
+Please cite the associated Structural Health Monitoring article and the archived Re-BUILD-EU repository release. `CITATION.cff` is included for GitHub citation support.
 
 ## License
 
