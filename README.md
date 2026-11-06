@@ -89,8 +89,9 @@ The experimental information used in the simulation-to-experiment demonstration 
 
 ## Citation
 
-Please cite the associated Structural Health Monitoring article and the archived Re-BUILD-EU repository release. `CITATION.cff` is included for GitHub citation support.
-
+Please cite the associated Structural Health Monitoring article and the archived Re-BUILD-EU repository release. 
+    1. Wahab AG, Clementi F, Tao Z. Leakage-controlled Bayesian structural health monitoring of earthquake-damaged RC frames using mechanism-aware evidence and experimental demonstration. Structural Health Monitoring. 2026;0(0). doi:10.1177/14759217261498813.
+    
 ## License
 
 See `LICENSE.md`. Code is released under the MIT License. Data and documentation produced for this package are released under CC BY 4.0. Experimental information derived from previously published articles remains subject to the rights of the original sources; only processed values necessary for reproducibility are included here.
