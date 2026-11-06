@@ -91,7 +91,7 @@ The experimental information used in the simulation-to-experiment demonstration 
 
 Please cite the associated Structural Health Monitoring article and the archived Re-BUILD-EU repository release. 
 1. Wahab AG, Clementi F, Tao Z. Leakage-controlled Bayesian structural health monitoring of earthquake-damaged RC frames using mechanism-aware evidence and experimental demonstration. Structural Health Monitoring. 2026;0(0). doi:10.1177/14759217261498813.
-2. 
+2. Wahab, A. G., Clementi, F., & Tao, Z. (2026).  Re-BUILD-EU data and code for leakage-controlled Bayesian SHM of earthquake-damaged RC frames  (Version 1.0.1). Zenodo. https://doi.org/10.5281/zenodo.24012567
     
 ## License
 
